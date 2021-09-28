@@ -1,4 +1,4 @@
-exercice THP : copier la page de recherche google   
+exercice copier la page de recherche google   
 
 site visible sur :   
 
